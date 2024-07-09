@@ -8,8 +8,9 @@
 Una aplicación JavaFX simple que permite al usuario seleccionar un año y mostrar los resultados de los conductores para ese año, incluyendo el nombre del conductor, el número de victorias, los puntos totales y la posición en el ranking de la temporada.
 
 <h3>Funcionalidades</h3>
-**ComboBox**: Permite seleccionar un año disponible para consultar los resultados.
-TableView: Muestra los resultados de los conductores, incluyendo:
+*ComboBox: Permite seleccionar un año disponible para consultar los resultados.
+
+*TableView: Muestra los resultados de los conductores, incluyendo:
 
 Nombre del conductor
 Número de victorias
@@ -18,4 +19,4 @@ Posición en el ranking de la temporada
 <h3>Cómo usar</h3>
 Seleccionar Año: Utiliza el ComboBox para elegir un año de la lista de años disponibles.
 
-Ver Resultados: La tabla se actualizará automáticamente para mostrar los resultados de los conductores del año seleccionado, incluyendo su nombre, número de victorias, puntos totales y posición en el ranking de la temporada.
+Resultado: La tabla se actualizará automáticamente para mostrar los resultados de los conductores del año seleccionado, incluyendo su nombre, número de victorias, puntos totales y posición en el ranking de la temporada.
